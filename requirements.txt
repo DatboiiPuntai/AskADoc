@@ -1,0 +1,6 @@
+langchain
+tiktoken
+openai
+chromadb
+gradio
+unstructured[all-docs]
