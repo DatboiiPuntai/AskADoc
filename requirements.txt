@@ -4,3 +4,4 @@ openai
 chromadb
 gradio
 unstructured[all-docs]
+python-magic-bin
